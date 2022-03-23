@@ -64,7 +64,7 @@ public class ResourcesPanel extends JPanel {
         newResB.setEnabled(true);
         newResB.setMaximumSize(new Dimension(24, 24));
         newResB.setMinimumSize(new Dimension(24, 24));
-        newResB.setToolTipText(Local.getString("New resource"));
+        newResB.setToolTipText(Local.getString("Bunny Rabbits"));
         newResB.setRequestFocusEnabled(false);
         newResB.setPreferredSize(new Dimension(24, 24));
         newResB.setFocusable(false);
