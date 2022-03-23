@@ -152,7 +152,7 @@ public class StickerDialog extends JDialog {
 		border1 =
 			BorderFactory.createCompoundBorder(
 				BorderFactory.createEtchedBorder(
-					Color.white,
+					Color.pink,
 					new Color(156, 156, 158)),
 				BorderFactory.createEmptyBorder(5, 5, 5, 5));
 		border2 = BorderFactory.createEmptyBorder(5, 0, 5, 0);
