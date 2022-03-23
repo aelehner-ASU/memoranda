@@ -87,11 +87,11 @@ public class EventsPanel extends JPanel {
         newEventB.setIcon(
             new ImageIcon(main.java.memoranda.ui.AppFrame.class.getResource("/ui/icons/event_new.png")));
         newEventB.setEnabled(true);
-        newEventB.setMaximumSize(new Dimension(24, 24));
-        newEventB.setMinimumSize(new Dimension(24, 24));
+        newEventB.setMaximumSize(new Dimension(72, 72));
+        newEventB.setMinimumSize(new Dimension(72, 72));
         newEventB.setToolTipText(Local.getString("New event"));
         newEventB.setRequestFocusEnabled(false);
-        newEventB.setPreferredSize(new Dimension(24, 24));
+        newEventB.setPreferredSize(new Dimension(72, 72));
         newEventB.setFocusable(false);
         newEventB.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(ActionEvent e) {
