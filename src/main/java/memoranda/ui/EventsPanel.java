@@ -202,7 +202,7 @@ public class EventsPanel extends JPanel {
                 ppEditEvent.setEnabled(enbl);
                 removeEventB.setEnabled(enbl);
                 ppRemoveEvent.setEnabled(enbl);
-            }
+            } 
         });
         editEventB.setEnabled(false);
         removeEventB.setEnabled(false);
