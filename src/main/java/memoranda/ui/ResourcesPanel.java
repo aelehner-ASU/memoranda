@@ -1,4 +1,4 @@
-package main.java.memoranda.ui;
+package main.java.memoranda.ui; 
 
 import java.awt.BorderLayout;
 import java.awt.Color;
