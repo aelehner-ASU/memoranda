@@ -1,6 +1,6 @@
 For each of you individually copy the checklist and check them of if it is done. This will be graded.
 
-Anna Lehner
+Anna Lehner 
   
 - [X] Download and install Git
   
