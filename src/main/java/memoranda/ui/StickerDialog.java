@@ -142,7 +142,7 @@ public class StickerDialog extends JDialog {
 
 	public StickerDialog() {
 		this(null);
-	}
+	} 
 	void jbInit() throws Exception {
 		stickerColor.setRenderer(new ComboBoxRenderer());
 		stickerColor.setMaximumRowCount(11);
